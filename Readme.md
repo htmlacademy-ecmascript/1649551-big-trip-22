@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Dmitrii Belov](https://up.htmlacademy.ru/ecmascript/22/user/1649551).
-* Наставник: `Неизвестно`.
+* Наставник: `Keks`.
 
 ---
 
